@@ -1,3 +1,5 @@
+//  #7DaysOfCode - Lógica JS 1/7: Operações Booleanas
+
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
@@ -22,6 +24,8 @@ if (numeroDez == stringDez) {
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
 }
+
+
 
 
 
